@@ -1,0 +1,25 @@
+/* src/pages/Inventory/Inventory.css */
+.inventory-list {
+    padding: 20px;
+}
+
+.inventory-list h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.inventory-list table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.inventory-list th,
+.inventory-list td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+.inventory-list th {
+    background-color: #f4f4f4;
+}
